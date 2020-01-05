@@ -1,2 +1,2 @@
 # stepik-auto-tests-course
-just another repository
+repository for my homework
